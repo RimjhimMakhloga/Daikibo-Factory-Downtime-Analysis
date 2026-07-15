@@ -6,6 +6,13 @@ This project analyzes factory telemetry data to identify downtime patterns acros
 
 The analysis was performed using Tableau to identify factories and machines contributing the most to operational downtime.
 
+## 🔗 Live Dashboard
+
+View the interactive Tableau dashboard here:
+
+👉 [View Dashboard on Tableau Public] (https://public.tableau.com/views/daikibofactorydashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ## 🎯 Objectives
 
 - Analyze downtime across different factories
